@@ -7,7 +7,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-
 public class NotaDAO {
 
     private final static ArrayList<Nota> notas = new ArrayList<>();
